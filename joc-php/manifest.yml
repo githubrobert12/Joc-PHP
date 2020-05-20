@@ -1,0 +1,6 @@
+
+applications:
+ - name: Joc PHP x/0
+   random-route: true
+   memory: 128M
+~                
